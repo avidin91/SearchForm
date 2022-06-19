@@ -1,0 +1,52 @@
+.header {
+    height: 80px;
+    width: 100%;
+    background-color: rgb(214, 93, 93);    
+    display: flex;
+}
+.style {
+    margin: auto auto;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color:antiquewhite
+}
+
+.size {
+    display: flex;
+    width: 60px;
+    height: 60px;
+    font-size: 60px;
+    margin: 20px auto 0;
+}
+.display {
+    display: none;
+}
+.find {
+    display: flex;
+    margin: 0 auto 20px;
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.inputCss {
+    height: 150px;
+    width: 300px;
+    background-color: rgb(230, 227, 227, 0.6);
+    font-size: 20px;
+    border-radius: 2px;
+    resize: none;
+    box-shadow: 10px 5px 5px rgb(163, 162, 162);
+    
+}
+
+.spanStyle {
+    padding-left: 45%;
+    margin-top: 100px;
+    height: 10px;
+    width: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: brown;
+}
